@@ -5,8 +5,11 @@ A Breakthrough in GenAI Powered Vision and it’s called Dr. VisionX! 🤖🔍
 That’s exactly what Dr. VisionX does! 
 
 ✅ Analyze medical images with precision 🔍
+
 ✅ Generate AI-driven prescriptions based on image input 
+
 ✅ Enhance doctor-patient efficiency in telemedicine 🌐
+
 ✅ Provide instant insights in emergency scenarios 🚑
 
 🔬 How does it work?
