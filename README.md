@@ -1,16 +1,18 @@
-# Dr.Vision-X
-🚀 Introducing Dr. VisionX 👁️💡
-A Breakthrough in GenAI Powered Vision and it’s called Dr. VisionX! 🤖🔍
+# GROQ Vision Chat – Image + Text Analysis with LLaMA 3 Vision
 
-That’s exactly what Dr. VisionX does! 
 
-✅ Analyze medical images with precision 🔍
+📝 Overview
+This project is an interactive web application that takes an image and a user query, sends both to the LLaMA 3.2 90B Vision Preview model via GROQ's Chat API, and returns a contextual response combining vision and language understanding.
 
-✅ Generate AI-driven prescriptions based on image input 
+It is built using Gradio for the user interface, Python, and GROQ API for backend processing. This setup is optimized for environments like Google Colab.
 
-✅ Enhance doctor-patient efficiency in telemedicine 🌐
+🚀 Features
+📤 Upload an image (e.g., object, document, medical scan, etc.)
 
-✅ Provide instant insights in emergency scenarios 🚑
+💬 Ask a question related to the image (e.g., “Describe the object”, “Is this healthy?”, “What’s written here?”)
 
-🔬 How does it work?
-Simply upload an image 📸 (like a medical report or scan), and Dr. VisionX will generate a prescription in seconds!
+🤖 Get contextual answers using GROQ’s LLaMA 3 Vision model
+
+🌐 Live demo enabled using Gradio
+
+🔐 Clean handling of API key through environment variables
